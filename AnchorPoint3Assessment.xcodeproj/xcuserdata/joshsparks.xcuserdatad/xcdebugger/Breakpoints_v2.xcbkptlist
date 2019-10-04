@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2F8FB7B7-B970-4EA6-800E-D8AE1C4C1592"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "891AFABA-ADAA-498C-85C3-EC3363836E81"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnchorPoint3Assessment/Controllers/Model Controllers/MovieController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "fetchImage(item:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A0F7C52-0E12-4CE3-884A-E3CE478117E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnchorPoint3Assessment/Controllers/Model Controllers/MovieController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "fetchImage(item:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3A0F7C52-0E12-4CE3-884A-E3CE478117E6 - 447286abf3d16d58"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AnchorPoint3Assessment.MovieController.fetchImage(item: AnchorPoint3Assessment.MovieSearch, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AnchorPoint3Assessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshsparks/Desktop/Swift%20Projects/AnchorPoint3Assessment/AnchorPoint3Assessment/Controllers/Model%20Controllers/MovieController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "1129">
+               </Location>
+               <Location
+                  uuid = "3A0F7C52-0E12-4CE3-884A-E3CE478117E6 - c2cbe251a771ed75"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static AnchorPoint3Assessment.MovieController.fetchImage(item: AnchorPoint3Assessment.MovieSearch, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AnchorPoint3Assessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshsparks/Desktop/Swift%20Projects/AnchorPoint3Assessment/AnchorPoint3Assessment/Controllers/Model%20Controllers/MovieController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB40CAA1-C718-4869-A5F9-3CB987C98D09"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnchorPoint3Assessment/Views/Custom Views/ResultTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "movieItem"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "FB40CAA1-C718-4869-A5F9-3CB987C98D09 - b8dad6bfe6b13fe4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnchorPoint3Assessment.ResultTableViewCell.movieItem.didset : Swift.Optional&lt;AnchorPoint3Assessment.MovieSearch&gt;"
+                  moduleName = "AnchorPoint3Assessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshsparks/Desktop/Swift%20Projects/AnchorPoint3Assessment/AnchorPoint3Assessment/Views/Custom%20Views/ResultTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "2043">
+               </Location>
+               <Location
+                  uuid = "FB40CAA1-C718-4869-A5F9-3CB987C98D09 - e0d412e94da387df"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in AnchorPoint3Assessment.ResultTableViewCell.movieItem.didset : Swift.Optional&lt;AnchorPoint3Assessment.MovieSearch&gt;"
+                  moduleName = "AnchorPoint3Assessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshsparks/Desktop/Swift%20Projects/AnchorPoint3Assessment/AnchorPoint3Assessment/Views/Custom%20Views/ResultTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "171">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2041F32C-E500-49F6-930F-D4AAEF3330E9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnchorPoint3Assessment/Controllers/Model Controllers/MovieController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "fetchImage(item:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54B4EE53-6634-4E9D-BB44-A732FD941BD2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnchorPoint3Assessment/Controllers/Model Controllers/MovieController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "fetchMovie(searchText:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2EBB259B-B41E-42CE-B6DC-C833F164790B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnchorPoint3Assessment/Controllers/Model Controllers/MovieController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "fetchMovie(searchText:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2EBB259B-B41E-42CE-B6DC-C833F164790B - 33e62416cad4dbd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AnchorPoint3Assessment.MovieController.fetchMovie(searchText: Swift.String, completion: (Swift.Array&lt;AnchorPoint3Assessment.MovieSearch&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AnchorPoint3Assessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshsparks/Desktop/Swift%20Projects/AnchorPoint3Assessment/AnchorPoint3Assessment/Controllers/Model%20Controllers/MovieController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "2021">
+               </Location>
+               <Location
+                  uuid = "2EBB259B-B41E-42CE-B6DC-C833F164790B - 7b36b5e2c7dd5d2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static AnchorPoint3Assessment.MovieController.fetchMovie(searchText: Swift.String, completion: (Swift.Array&lt;AnchorPoint3Assessment.MovieSearch&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AnchorPoint3Assessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshsparks/Desktop/Swift%20Projects/AnchorPoint3Assessment/AnchorPoint3Assessment/Controllers/Model%20Controllers/MovieController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "237">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E90F3A7-4456-4AC2-82C3-6CCAC410CE54"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnchorPoint3Assessment/Controllers/Model Controllers/MovieController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "fetchMovie(searchText:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A9F33DF-C17D-4F1F-9E3A-74EA6E82258E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnchorPoint3Assessment/Controllers/Model Controllers/MovieController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "fetchMovie(searchText:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DCBEC2E-5302-41E5-AD35-FD855A9DF6AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnchorPoint3Assessment/Controllers/Model Controllers/MovieController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "fetchMovie(searchText:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00CA85D0-D890-4CE4-8CCC-906F2F999C4C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnchorPoint3Assessment/Controllers/Model Controllers/MovieController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "fetchMovie(searchText:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
